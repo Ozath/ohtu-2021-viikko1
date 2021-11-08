@@ -1,1 +1,2 @@
 Contents of this file have been modified (exercise 3).
+Added change to file to test: git add -p
