@@ -1,0 +1,5 @@
+# ignore all files ending with tmp
+*.tmp
+# ignore the following directories
+__pycache__/
+.pytest_cache/
